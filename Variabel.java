@@ -1,8 +1,8 @@
 public class Variabel
 {
-    public static void Variabel(String[] args) {
+    public static void main(String[] args) {
         String Salam = "Assalamu'alaikum";
-        String nama = "Muhamad Isa Firdaus";
+        String Nama = "Muhamad Isa Firdaus";
         int Tahun_lahir = 2003;
 
         System.out.println(Salam);
